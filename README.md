@@ -21,18 +21,23 @@ Here are some ideas to get you started:
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<!-- Badge -->
+
 💪 learning
 
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=flat)
 
 
 🔭 Apps
+
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
 
@@ -42,13 +47,18 @@ Here are some ideas to get you started:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Discord Badge](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat)
+![Intellj Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=flat)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)
+<!-- GitHub 數據統計 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight" />
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+<!-- Contribution 數據統計 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qwe8496516&bg_color=1a1b26&color=70a5fb&line=70a5fb&point=a8d1b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
