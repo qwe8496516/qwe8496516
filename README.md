@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub 數據統計 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight" /><br><br>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
