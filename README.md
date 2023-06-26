@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white&style=flat)
+![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=flat)
+
+
+🔭 Apps
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat)
+![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
 
 🧰 tools
 
@@ -39,10 +46,9 @@ Here are some ideas to get you started:
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qwe8496516&bg_color=5073af&color=ffffff&line=ffffff&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qwe8496516&bg_color=1a1b26&color=70a5fb&line=70a5fb&point=a8d1b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
