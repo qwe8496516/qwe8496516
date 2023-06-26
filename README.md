@@ -38,5 +38,10 @@ Here are some ideas to get you started:
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qwe8496516&bg_color=2d5a68&color=9ac9d9&line=ffffff&point=9ac9d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwe8496516&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwe8496516&layout=compact&theme=tokyonight)](https://github.com/USERNAME/github-readme-stats)
 
