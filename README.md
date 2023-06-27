@@ -1,12 +1,11 @@
 <h3 align="center">A passionate developer from Taiwan</h3>
 
-<br>
 
 ### Hi there 👋
 
-💼 Student of Feng Chia University
+👯 Student of Feng Chia University
 
-❤️ I love writing Code
+🌱 I’m currently learning Fontend 
 
 💬 Ask me about anything here
 
