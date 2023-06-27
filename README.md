@@ -4,7 +4,12 @@
 
 ### Hi there 👋
 
-🔭 I’m currently studying at Feng Chia Universary
+💼 Student of Feng Chia University
+
+❤️ I love writing Code
+
+💬 Ask me about anything here
+
 
 <!--
 **qwe8496516/qwe8496516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +34,7 @@ Here are some ideas to get you started:
 <!-- Badge -->
 
 💪 learning
+
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -41,10 +47,12 @@ Here are some ideas to get you started:
 
 
 🔭 Apps
+
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)
 
 🧰 tools
+
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
